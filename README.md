@@ -5,7 +5,7 @@ Additional features include tracking total work hours throughout the day, displa
 
 
 ## Appearance Sketch
-![My Image](sketches/1.png)
+![My Image](sketches/1.pdf)
 
 ## Sensor
 ![My Image](sketches/2.png)
