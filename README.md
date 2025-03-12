@@ -5,7 +5,6 @@
 
 ![My Image](sketches/3.png)
 
-## Devices communicate & detailed diagram
 ![My Image](sketches/4.png)
 
 ![My Image](sketches/5.png)
